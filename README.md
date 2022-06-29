@@ -23,4 +23,5 @@
   <a href="https://www.instagram.com/ezothierry"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://open.spotify.com"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   
+ 
   
