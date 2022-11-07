@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-**About**
+**About:**
 
 - 👨‍💻 Seeking new challenges;
 - 📈 I'm looking to improve back-end languages;
@@ -15,7 +15,6 @@
 - 🌱 Learning all about Python;
 
 
-📈 Venho buscando me aperfeiçoar em linguagens back-end;
 
    
 <p  align="center">
