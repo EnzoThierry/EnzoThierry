@@ -1,3 +1,8 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I+Am+the+Enzo+Thierry!;" />
+</h1>
+
+
 ### Hi! I am the Enzo Thierry <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50"> **Developer Back-end </>**
 
 <p  align="center">
@@ -33,6 +38,10 @@
   <a href="https://open.spotify.com/user/eksbwpqft5yc1g2nrs7ba4cue"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 	<br>
 </div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+me!;" />
+</h1>
 
   
   
