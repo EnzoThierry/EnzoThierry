@@ -1,23 +1,30 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I+Am+the+Enzo+Thierry!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Enzo+Thierry!;++Your+next+top+developer++;" />
 </h1>
 
 
-### Hi! I am the Enzo Thierry <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50"> **Developer Back-end </>**
+ <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50"> 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-**About:**
+```js
+import Developer from "Devezo";
 
-- 👨‍💻 Seeking new challenges;
-- 📈 I'm looking to improve back-end languages;
-- 💼 Graduated in Systems Analysis and Development;
-- 💬 Ask me about anything, I'm happy to answer;
-- 📫 Send an email to contact me;
-- 🌍 Active in the Python community;
-- 🌱 Learning all about Python;
+class AboutMe extends Developer {
+  graduation = "Systems Analysis and Development";
+  area = "Developer Back-end";
+  work = "Remote";
+  origin = "Brazil";
+}
+
+class Skills extends Developer {
+  languages = ["Python, Java"];
+  libraries = ["Pandas"];
+  frameworks = ["FASTapi"];
+}
+```
 
 
 
@@ -25,25 +32,42 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
-## Find me on
-<p>
-
-<div>
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
-  <a href="mailto:Enzothierry408@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/enzothierry"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/ezothierry"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://open.spotify.com/user/eksbwpqft5yc1g2nrs7ba4cue"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-	<br>
-</div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+me!;" />
-</h1>
+	<img src="https://media.tenor.com/JowhCmKT628AAAAi/oacmn.gif" width="50" height="50" /> 
+	<img src="https://media.tenor.com/YjqJrLC1UEoAAAAi/oacmn.gif" width="50" height="50" /> 
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=SKILLS;" />
+	<img src="https://media.tenor.com/4dfAqZHmiOwAAAAi/oacmn.gif" width="50" height="50" /> 
+	<img src="https://media.tenor.com/pnPPGJBwH3gAAAAi/oacmn.gif" width="50" height="50" /> 
 
-  
-  
+<div style="display: inline_block"><br>
+  <img align="center" alt="PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="PR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="ARD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="DBV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
+  <img align="center" alt="FAST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="PC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="IJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MAV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="45"> 
+  <img align="center" alt="MARK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+</div>
+
+        
+
+## Find me on
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzothierry)](www.linkedin.com/in/enzothierry)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Devezo142@gmail.com)](mailto:Devezo142@gmail.com)
+![AskMe](https://img.shields.io/badge/Ask%20me%20anything,%20I'll%20be%20glad%20to%20help-8A2BE2)
+<img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50"> 
+
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;" />   
+</h1>
  
   
